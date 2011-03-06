@@ -1,2 +1,2 @@
-require 'reader'
+require './reader'
 run Sinatra::Application
