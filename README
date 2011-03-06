@@ -1,5 +1,9 @@
-<h1>What is this</h1>
-<p>Small app using Sinatra and ruby-readability to make web articles easier to read when displaying in mobile apps.</p>
-<h1>Usage</h1>
-<p>http://readable.heroku.com/read/{full_url}<p>
-<p>Example: http://readable.heroku.com/read/http://www.cnn.com/2011/CRIME/03/05/connecticut.east.coast.rapist/index.html?hpt=T1</p>
+What is this
+
+Small app using Sinatra and ruby-readability to make web articles easier to read when displaying in mobile apps.
+
+Usage
+
+URL: http://readable.heroku.com/read/{url_to_be_read}
+
+Example: http://readable.heroku.com/read/http://www.cnn.com/2011/CRIME/03/05/connecticut.east.coast.rapist/index.html?hpt=T1
